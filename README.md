@@ -24,13 +24,9 @@ Este script realiza las siguientes tareas:
    ```bash
    nmap -sS -p- 192.168.1.1 -oN nmap_output.txt
 
-Ejecutar el script con el archivo nmap_output.txt generará un archivo ports_and_services.txt con el siguiente contenido:
+Ejecutar el script con el archivo nmap_output.txt generará un archivo ports_and_services.txt 
 
-     ./nmap-scriptPorts_and_services.sh nmap_output.txt
+   ./nmap-scriptPorts_and_services.sh nmap_output.txt
 
-
-Dirección IP: 192.168.1.1
-22    ssh
-80    http
 
 
