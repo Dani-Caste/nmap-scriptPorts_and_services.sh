@@ -26,7 +26,7 @@ Este script realiza las siguientes tareas:
 
 Ejecutar el script con el archivo nmap_output.txt generará un archivo ports_and_services.txt 
 
-   ./nmap-scriptPorts_and_services.sh nmap_output.txt
+   ./scriptPorts_and_services.sh nmap_output.txt
 
 
 
